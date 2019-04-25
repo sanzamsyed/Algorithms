@@ -1,0 +1,21 @@
+8 10
+
+Kharampotti  Newtown 1
+
+Ukilpara Puranthana 1
+
+Gaital Kharampotti 2
+
+Gaital Nagua 3
+
+Puranthana Nagua 4
+
+Alormela Gaital 5
+
+Alormela Ukilpara 6
+
+Nagua 32 7
+
+Nagua Newtown 8
+
+Newtown 32 9
